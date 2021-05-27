@@ -1,10 +1,14 @@
 ### Hey, I'm Lucas! 👋
 
-My name is Lucas Gomes
+My name is Lucas Gomes 🚀
 </br>
 Born in São Paulo, Brazil 🇧🇷 
 </br>
 Student of information systems at UFPB👨🏻‍💻
+</br>
+
+<strong>"If I saw farther I went for being on the shoulders of giants" Newton Isaac</strong> 🧠
+
 
 
 # Technologies ⚡
