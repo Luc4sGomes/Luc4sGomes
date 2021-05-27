@@ -4,6 +4,7 @@ My name is Lucas Gomes 🚀
 </br>
 Born in São Paulo, Brazil 🇧🇷 
 </br>
+Living in Paraíba 📌
 Student of information systems at UFPB👨🏻‍💻
 </br>
 
