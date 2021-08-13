@@ -9,7 +9,6 @@ Living in Paraíba 📌
 Student of information systems at UFPB👨🏻‍💻
 </br>
 
-<strong>"If I saw farther I went for being on the shoulders of giants" Newton Isaac</strong> 🧠
 
 
 
