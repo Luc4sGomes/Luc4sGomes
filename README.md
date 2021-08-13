@@ -1,6 +1,6 @@
 ### Hey, I'm Lucas! 👋
 
-My name is Lucas Gomes 🚀
+
 </br>
 Born in São Paulo, Brazil 🇧🇷 
 </br>
