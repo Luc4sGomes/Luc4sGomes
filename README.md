@@ -2,7 +2,7 @@
 
 
 </br>
-Born in São Paulo, Brazil 🇧🇷 
+Born in São Paulo, Brazil 🌎
 </br>
 Basead in Paraíba 📌
 </br>
