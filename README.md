@@ -4,7 +4,7 @@
 </br>
 Born in São Paulo, Brazil 🇧🇷 
 </br>
-Living in Paraíba 📌
+Basead in Paraíba 📌
 </br>
 Student of information systems at UFPB👨🏻‍💻
 </br>
