@@ -16,7 +16,7 @@ Student of information systems at UFPB👨🏻‍💻
 
 # Technologies ⚡
 
-These are some of the technologies and tools that I work with:
+These are some of the technologies and tools that I've been worked with:
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
