@@ -9,11 +9,6 @@ Basead in Paraíba 📌
 Student of information systems at UFPB👨🏻‍💻
 </br>
 
-# Actually I'm working with: Java, Android and Gradle
-
-
-
-
 # Technologies ⚡
 
 These are some of the technologies and tools that I've been worked with:
