@@ -1,14 +1,14 @@
-### Eai, tranquilo!? 👋
+### Eai Pessoal, tranquilo!? 👋
 
 </br>
-Engenheiro de Software 👨🏻‍💻
-</br>
+Me chamo Lucas Gomes, sou um Desenvolvedor de Software 👨🏻‍💻
+</br
 </br>
 Nasci em São Paulo, Brazil 🌎
 </br>
-Atualmente moro na Paraíba 📌
+Atualmente resido em João Pessoa/PB 📌
 </br>
-Graduado em Sistemas de Informação pela UFPB 💻
+Sou graduado em Sistemas de Informação pela UFPB 💻
 </br>
 
 # Tecnologias⚡
