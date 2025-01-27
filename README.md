@@ -1,17 +1,19 @@
-### Hey, I'm Lucas! 👋
-
+### Eai, tranquilo!? 👋
 
 </br>
-Borned in São Paulo, Brazil 🌎
+Engenheiro de Software 👨🏻‍💻
 </br>
-Basead in Paraíba 📌
 </br>
-Student of information systems at UFPB👨🏻‍💻
+Nasci em São Paulo, Brazil 🌎
+</br>
+Atualmente moro na Paraíba 📌
+</br>
+Graduado em Sistemas de Informação pela UFPB 💻
 </br>
 
-# Technologies ⚡
+# Tecnologias⚡
 
-These are some of the technologies and tools that I've been worked with:
+Aqui abaixo listo algumas tecnologias que já trabalhei e trabalho atualmente:
 
 Backend: 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
