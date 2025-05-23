@@ -6,7 +6,7 @@ Me chamo Lucas Gomes, sou um Desenvolvedor de Software 👨🏻‍💻
 </br>
 Nasci em São Paulo, Brazil 🌎
 </br>
-Atualmente resido em João Pessoa/PB 📌
+Atualmente resido em Recife Pernambuco/PE atuando como desenvolvedor e criando soluções em testes na motorola utilizando Java.📌
 </br>
 Sou graduado em Sistemas de Informação pela UFPB 💻
 </br>
