@@ -1,19 +1,19 @@
-### Eai Pessoal, tranquilo!? 👋
+### Hey everyone, how's it going!? 👋
 
 </br>
-Me chamo Lucas Gomes, sou um Desenvolvedor de Software 👨🏻‍💻
+My name is Lucas Gomes, I'm a Software Developer 👨🏻‍💻
 </br
 </br>
-Nasci em São Paulo, Brazil 🌎
+I was born in São Paulo, Brazil 🌎
 </br>
-Atualmente resido em Recife Pernambuco/PE atuando como desenvolvedor e criando soluções em testes na motorola utilizando Java.📌
+Currently residing in Recife, Pernambuco/PE, working as a developer and creating testing solutions for Motorola using Java. 📌
 </br>
-Sou graduado em Sistemas de Informação pela UFPB 💻
+I have a degree in Information Systems at @UFPB 💻
 </br>
 
-# Tecnologias⚡
+# Technologies⚡
 
-Aqui abaixo listo algumas tecnologias que já trabalhei e trabalho atualmente:
+Below is a list of some technologies I have worked with and currently work with:
 
 Backend: 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
