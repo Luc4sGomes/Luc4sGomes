@@ -1,16 +1,15 @@
 ### Hey everyone, how's it going!? 👋
 
 </br>
-My name is Lucas Gomes, I'm a Software Developer 👨🏻‍💻
-</br
-</br>
-im Software Engineer with a strong mindset, focused on building scalable, maintainable and well-architected systems.
-I enjoy researching, studying system design, software architecture, engineering trade-offs and real-world problem solving.
+My name is Lucas Gomes, I'm a Software Engineer with a strong mindset, focused on building scalable, maintainable and well-architected systems.
+I enjoy researching, studying system design, software architecture, engineering trade-offs and real-world problem solving. 👨🏻‍💻
 </br>
 
 💻 **Software Engineer | Architecture-Oriented**
 <br>
+
 📚 Postgraduate student in **Software Engineering** – CIn UFPE / Motorola
+
 <br>
 🎓 Bachelor's degree in **Information System at @UFPB**
 
