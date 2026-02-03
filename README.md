@@ -5,13 +5,11 @@ My name is Lucas Gomes, I'm a Software Engineer with a strong mindset, focused o
 </br>
 I enjoy researching, studying system design, software architecture, engineering trade-offs and real-world problem solving. 👨🏻‍💻
 </br>
-
+</br>
 💻 **Software Engineer | Architecture-Oriented**
-<br>
-
+</br>
 📚 Postgraduate student in **Software Engineering** – CIn UFPE / Motorola
-
-<br>
+</br>
 🎓 Bachelor's degree in **Information System at @UFPB**
 
 
