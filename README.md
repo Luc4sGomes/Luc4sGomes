@@ -4,48 +4,44 @@
 My name is Lucas Gomes, I'm a Software Developer 👨🏻‍💻
 </br
 </br>
-I was born in São Paulo, Brazil 🌎
-</br>
-Currently residing in Recife, Pernambuco/PE, working as a developer and creating testing solutions for Motorola using Java. 📌
-</br>
-I have a degree in Information Systems at @UFPB 💻
+im Software Engineer with a strong mindset, focused on building scalable, maintainable and well-architected systems.
+I enjoy researching, studying system design, software architecture, engineering trade-offs and real-world problem solving.
 </br>
 
-# Technologies⚡
-
-Below is a list of some technologies I have worked with and currently work with:
-
-Backend: 
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-
-Frontend
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
-![React](https://img.shields.io/badge/-React-007FFF?style=flat-square&logo=react&logoColor=white)
-
-Database:
-![Microsoft SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-Cloud:
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
+💻 **Software Engineer | Architecture-Oriented**
+<br>
+📚 Postgraduate student in **Software Engineering** – CIn UFPE / Motorola
+<br>
+🎓 Bachelor's degree in **Information System at @UFPB**
 
 
-Tools:
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
-![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira)
+## Professional Focus
+- Software Architecture & System Design  
+- Scalable backend and distributed systems  
+- Cross-team collaboration and technical leadership  
+- Quality, reliability and test-oriented engineering  
 
-IDEs:
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white)
-![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
+I actively work with backend structuring, API design, modularization, and technical standards, supporting teams in building robust and scalable projects
+
+## Software Engineering & Web Backend
+[![My Skills](https://skillicons.dev/icons?i=java,nodejs,python,ts,express,nestjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,vue,nextjs,vite,styledcomponents&theme=light)](https://skillicons.dev)
+
+- RESTful APIs and service-oriented design
+- Java and Node.js for backend services
+- Python for scripting and automation
+- Frontend development with React and Vue.js
+- Clean Architecture & separation of concerns
+- Integration with databases and external systems
+
+## Mobile Engineering
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,androidstudio)](https://skillicons.dev)
+
+## DevOps, Cloud & Infrastructure
+[![My Skills](https://skillicons.dev/icons?i=aws,linux,docker&theme=light)](https://skillicons.dev)
+
+## Data, Databases & Automation
+[![My Skills](https://skillicons.dev/icons?i=py,postgres,mysql,mongodb,selenium,sequelize&theme=light)](https://skillicons.dev)
+
+## Tools & Engineering Practices
+[![My Skills](https://skillicons.dev/icons?i=git,gitlab,cypress,graphql,figma,obsidian,arduino&theme=light)](https://skillicons.dev)
